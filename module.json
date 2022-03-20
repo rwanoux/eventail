@@ -23,9 +23,9 @@
         "/styles/module.css"
     ],
     "languages": [],
-    "url": "This is auto replaced",
-    "manifest": "This is auto replaced",
-    "download": "This is auto replaced",
+    "url": "https://github.com/rwanoux/eventail",
+    "manifest": "https://raw.githubusercontent.com/rwanoux/eventail/master/module.json",
+    "download": "https://github.com/rwanoux/eventail/archive/refs/heads/master.zip",
     "media": [{
         "type": "icon",
         "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
